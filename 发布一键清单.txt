@@ -1,0 +1,9 @@
+1. 安装 Git for Windows
+2. 打开 PowerShell
+3. 进入仓库目录：cd C:\Users\xieyong\GitHub\travel-share
+4. 配置身份：git config --global user.name "xieyong" && git config --global user.email "your@email.com"
+5. 提交：git add . && git commit -m "更新旅游官网"
+6. 推送：git branch -M main && git push -u origin main
+7. 在 GitHub 仓库中开启 Pages
+8. 设置自定义域名：xynong.ccwu.cc
+9. 等待部署完成后访问：https://xynong.ccwu.cc

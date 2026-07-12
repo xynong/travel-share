@@ -1,0 +1,6 @@
+最后一步：
+- 打开 https://github.com/xynong/travel-share/settings/pages
+- Source 选择 GitHub Actions
+- Save
+- 然后等工作流跑完
+- 访问：https://xynong.github.io/travel-share/

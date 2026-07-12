@@ -1,0 +1,21 @@
+GitHub Pages：
+1. 打开仓库 Settings
+2. 点 Pages
+3. Source 选 Deploy from a branch
+4. Branch 选 main
+5. Folder 选 /root
+6. Save
+7. Custom domain 填 xynong.ccwu.cc
+8. Save
+
+域名解析：
+1. 打开域名后台
+2. 进 DNS / 解析管理
+3. 新增 4 条 A 记录
+4. 主机名填 @
+5. 值填：185.199.108.153 / 185.199.109.153 / 185.199.110.153 / 185.199.111.153
+6. 保存
+
+访问：
+https://xynong.github.io/travel-share/
+https://xynong.ccwu.cc

@@ -1,0 +1,7 @@
+1. 推送网站到 GitHub
+2. 仓库里开 Settings → Pages
+3. Source 选 Deploy from a branch
+4. Branch 选 main，Folder 选 /root
+5. 在 Custom domain 填 xynong.ccwu.cc
+6. 去域名服务商加解析
+7. 等待生效后访问 https://xynong.ccwu.cc

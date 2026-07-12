@@ -1,0 +1,10 @@
+请立即在 GitHub 里操作：
+1. 打开 https://github.com/xynong/travel-share
+2. 点 Settings
+3. 左侧点 Pages
+4. Source 选 GitHub Actions
+5. Save
+6. 在 Custom domain 填 xynong.ccwu.cc
+7. Save
+8. 等待几分钟
+9. 访问：https://xynong.github.io/travel-share/ 或 https://xynong.ccwu.cc
